@@ -22,7 +22,7 @@ This is a simple web application that fetches and displays news articles using t
 ## Code Structure
 
 - `api.html`: HTML file containing the structure of the web page.
-- `style.css`: CSS file for styling the web page.
+- `style.css`: CSS file for styling the web page as your preferences.
 - `api.js`: JavaScript file for fetching news, rendering articles, and handling infinite scrolling.
 
 ## Usage
